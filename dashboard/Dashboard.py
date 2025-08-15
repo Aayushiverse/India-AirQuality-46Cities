@@ -4,8 +4,6 @@
 # In[1]:
 
 
-get_ipython().system(' pip install dash plotly pandas')
-
 
 # In[2]:
 
@@ -300,11 +298,14 @@ def update_pollutant_info(pollutant):
 
 # Run app
 if __name__ == '__main__':
-    app.run(debug=True)
+    import os
+    port = int(os.environ.get("PORT", 8050))
+    app.run_server(debug=True, host="0.0.0.0", port=port)
  
 
 
 # In[ ]:
+
 
 
 
