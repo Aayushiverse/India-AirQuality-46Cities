@@ -14,8 +14,7 @@ import plotly.express as px
 import pandas as pd
 
 # Load your final processed dataset (e.g., 'result.csv')
-df = pd.read_csv('aqi_pollution_geo_merged.csv')
-
+df = pd.read_csv('aqi_dashboard_small.csv')
 
 # In[3]:
 
@@ -305,6 +304,7 @@ if __name__ == '__main__':
 
 
 # In[ ]:
+
 
 
 
