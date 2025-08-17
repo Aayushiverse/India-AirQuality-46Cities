@@ -47,8 +47,16 @@ This project highlights a **data science workflow**, including:
 ## 🎥 Dashboard Demo  
 Check out the demo video of the dashboard here:  
 
-👉 [Dashboard Demo](Dashboard%20Demo.mp4)  
+👉 Vodeo: [Dashboard Demo](Dashboard%20Demo.mp4)  
+
+Images: 
 [![Dashboard Screenshot](dashboard/top_10_cleanest_city.png)](Dashboard%20Demo.mp4)
+[![Dashboard Screenshot](dashboard/top_10_polluted_city.png)]
+[![Dashboard Screenshot](dashboard/daily_weather_trend.png)]
+[![Dashboard Screenshot](dashboard/AQI_Trend.png)]
+[![Dashboard Screenshot](dashboard/daily_avg_pollutant_trend.png)]
+[![Dashboard Screenshot](dashboard/Avg_pollutant_by_city and Aqi_category.png)]
+[![Dashboard Screenshot](dashboard/AQI_category and pollutant_info.png)]
 
 ---
 
