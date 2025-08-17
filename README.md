@@ -44,7 +44,7 @@ This project highlights a **data science workflow**, including:
 
 ---
 ## 🎥 Demo
-[▶️ Watch the demo](Dashboard Demo.mp4)
+[▶️ Watch the demo].(Dashboard Demo.mp4)
 
 ---
 
@@ -85,5 +85,7 @@ See the [LICENSE](LICENSE) file for details.
 
 ## 🙋 Author
 👤 Aayushi Kumari
+
 📧 Email: gupaayu053@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/aayushi-kumari-562b2a147/
