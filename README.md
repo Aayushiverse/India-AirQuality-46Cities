@@ -44,7 +44,21 @@ For this project, I collected data using **Open-Meteo APIs** instead of relying 
 ## Exploratory Data Analysis (EDA)
 
 You can view my detailed EDA notebook here:  
-📓 [2_eda_exploration.ipynb](notebooks/2_eda_exploration.ipynb)
+📓 [2_eda_exploration.ipynb](notebook/2_eda_exploration.ipynb)
+
+### 📊 EDA Conclusion: Air Quality in Indian Cities
+- Northern India requires urgent intervention due to consistent poor air quality.
+- Faridabad, Noida, Delhi, Ghaziabad, Kanpur, Amritsar, Jaipur, Chandigarh, Dhanbad, Varanasi are the most polluted
+- Ozone and PM10 are the dominant pollutants across most regions.
+- Clustering and geospatial visualization provide a strong basis for targeted regional policy making.
+- Clean cities offer insight into sustainable practices and natural conditions that promote better air quality.
+- Port Blair, Panaji, Thiruvananthapuram, Surat, Aizawl, Pune, Kohima, Bangalore, Imphal, Itanagar are the most cleanest.
+- Pollutant Correlations: Vehicle-related pollutants — PM10, NO₂, CO — were strongly correlated, suggesting a common source (traffic, combustion).
+- Weather Influences:
+   - ☀️ Temperature → Positively correlated with Ozone (O₃) formation.
+   - 🌬️ Wind speed → Diluted CO and other ground-level pollutants.
+   - 💧 Humidity → Suppressed Ozone, possibly due to reduced sunlight and photochemical reactions.
+
 
 ---
 
