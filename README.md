@@ -9,6 +9,38 @@ The work is divided into **three stages**:
 3. **Interactive Dashboard** – A web-based dashboard to visualize pollution trends, weather correlations, and health implications.  
 
 ---
+## 📂 Dataset  
+
+For this project, I collected data using **Open-Meteo APIs** instead of relying on static Kaggle datasets. This approach ensures **fresh, real-time, and customizable data** for analysis.  
+
+### 🔗 Sources  
+- **[Open-Meteo Air Quality API](https://open-meteo.com/en/docs/air-quality-api)**  
+  - Pollutants: PM10, PM2.5, Ozone (O₃), Nitrogen Dioxide (NO₂), Sulphur Dioxide (SO₂), Carbon Monoxide (CO)  
+- **[Open-Meteo Weather API](https://open-meteo.com/en/docs)**  
+  - Weather factors: Temperature, Humidity, Wind Speed/Direction, Surface Pressure, Precipitation  
+
+### 📅 Date Range  
+- **25th April 2025 – 25th July 2025**  
+
+### ⏱️ Frequency  
+- **Hourly resolution** (enables fine-grained time-series analysis)  
+
+### 📊 Collected Features  
+- **Air Pollutants**: PM2.5, PM10, O₃, NO₂, SO₂, CO  
+- **AQI Values**: Calculated based on **US AQI** and **European AQI** standards  
+- **Meteorological Features**: Temperature, Humidity, Wind Speed/Direction, Surface Pressure, Precipitation  
+- **City Name + Timestamp** for spatio-temporal granularity  
+
+### 💡 Why This Matters  
+- Enables **time-series modeling** and forecasting at an hourly scale  
+- **More flexible** and up-to-date than static Kaggle datasets  
+- Demonstrates ability to:  
+  - Integrate **multiple APIs**  
+  - Handle **real-world data complexities** (missing values, noisy signals)  
+  - Scale analysis across **46 Indian cities**  
+
+
+---
 
 ## ✨ Key Features of Dashboard  
 - 📊 **Time-series pollutant trends** for selected cities    
