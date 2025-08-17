@@ -41,6 +41,12 @@ For this project, I collected data using **Open-Meteo APIs** instead of relying 
 
 
 ---
+## Exploratory Data Analysis (EDA)
+
+You can view my detailed EDA notebook here:  
+📓 [2_eda_exploration.ipynb](notebooks/2_eda_exploration.ipynb)
+
+---
 
 ## ✨ Key Features of Dashboard  
 - 📊 **Time-series pollutant trends** for selected cities    
