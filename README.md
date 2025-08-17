@@ -43,8 +43,12 @@ This project highlights a **data science workflow**, including:
 - Version-controlled via **Git & GitHub**  
 
 ---
-## 🎥 Demo
-[▶️ Watch the demo].(Dashboard Demo.mp4)
+
+## 🎥 Dashboard Demo  
+Check out the demo video of the dashboard here:  
+
+👉 [Dashboard Demo](Dashboard%20Demo.mp4)  
+[![Dashboard Screenshot](daily_avg_pollutant_trend.png)](Dashboard%20Demo.mp4)
 
 ---
 
