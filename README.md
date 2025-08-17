@@ -54,8 +54,8 @@ Images:
 [![Dashboard Screenshot](dashboard/AQI_Trend.png)]
 [![Dashboard Screenshot](dashboard/daily_avg_pollutant_trend.png)]
 [![Dashboard Screenshot](dashboard/daily_weather_trend.png)]
-[![Dashboard Screenshot](dashboard/Avg_pollutant_by_city and Aqi_category.png)]
-[![Dashboard Screenshot](dashboard/AQI_category and pollutant_info.png)]
+[![Dashboard Screenshot](dashboard/Avg_pollutant_by_city_and_Aqi_category.png)]
+[![Dashboard Screenshot](dashboard/AQI_category_and_pollutant_info.png)]
 [![Dashboard Screenshot](dashboard/top_10_cleanest_city.png)]
 [![Dashboard Screenshot](dashboard/top_10_polluted_city.png)]
 
